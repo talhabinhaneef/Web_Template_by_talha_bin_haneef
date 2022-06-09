@@ -1,0 +1,20 @@
+input[type="text"]
+{
+    background: transparent;
+    border: none;
+}
+*{
+    color: azure !important;
+}
+body{
+    
+    background-image: linear-gradient(to left bottom, #10151b, #0a131e, #061021, #030c23, #030625);
+    
+    
+    
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+    opacity: 80%;
+  }
